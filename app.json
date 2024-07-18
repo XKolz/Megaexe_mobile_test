@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TranEase",
-    "slug": "TranEase",
+    "name": "Hospyta",
+    "slug": "Hospyta",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.xkolz.TranEase"
+      "package": "com.xkolz.Hospyta"
     },
     "web": {
       "favicon": "./assets/favicon.png"

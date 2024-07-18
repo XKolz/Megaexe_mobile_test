@@ -1,6 +1,8 @@
-## TranEase Mobile Dev Assessment(React Native)
+## Hospyta Mobile Dev Assessment(React Native)
 
-<!-- <img src="./assets/app.png" alt="App Screenshot" width="400" height="280"> -->
+Create a .env file and add
+APP_API_BASE_URL=https://reqres.in
+
 using 
     @reduxjs/toolkit react-redux- Application State Management
     npm install axios - To make requests to either their own or a third-party server to fetch data.
