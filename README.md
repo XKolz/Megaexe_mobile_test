@@ -18,12 +18,8 @@ For andriod APK
     eas build -p android
 
 Convert the file to APK
-java -jar bundletool-all-1.16.0.jar build-apks --bundle=tranease.aab --output=tranease.apks --mode=universal
-
-## Screenshot
-![App Screenshot](./assets/app.png)
-
+java -jar bundletool-all-1.16.0.jar build-apks --bundle=hospyta.aab --output=hospyta.apks --mode=universal
 
 
 npm install react-native-vector-icons
-To include a calendar icon in your React Native component, you can use the Ionicons component from the react-native-vector-icons package. Here's your updated code with a calendar icon added:
+To include a calendar icon in your React Native component
