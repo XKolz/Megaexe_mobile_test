@@ -22,7 +22,6 @@ export default function WelcomeScreen({ navigation }) {
             marginBottom: 50,
           }}
         />
-      {/* <Text style={styles.title}>Fastamoni</Text> */}
     </View>
   );
 }
